@@ -19,8 +19,8 @@
 ---
 
 **Dual Destiny** es un RPG de acción top-down multijugador en tiempo real, un proyecto independiente hecho desde cero en
-ratos libres. Ángeles y demonios no pueden enfrentarse sin destruirse… así que usan a los humanos como peones. Tú eres uno de
-ellos: despiertas tu energía espiritual, nace tu **rasgo** —un poder único totalmente aleatorio—, aprende habilidades espirituales genéricas y descubre los secretos de del continente de Verídia!
+ratos libres. Las fuerzas oscuras y las fuerzas celestiales no pueden enfrentarse sin destruirse… así que usan a los humanos como peones. Tú eres uno de
+ellos: despiertas tu energía espiritual, nace tu **rasgo** —un poder único totalmente aleatorio—, aprendes habilidades espirituales genéricas y descubres los secretos del continente de Verídia.
 
 Tú decides de qué lado cae la balanza en **Verídia**.
 
