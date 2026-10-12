@@ -159,7 +159,7 @@ el sintetizador de música y el generador de la pasarela de la web.
 
 ## 🙌 Créditos
 
-Arte base de personajes, criaturas y tiles de [CraftPix](https://craftpix.net) y otros packs (lista en [CREDITOS.md](CREDITOS.md)). Las ilustraciones de los rasgos, el logo, la música, los sonidos, los luchadores y todo el
+Arte base de personajes, criaturas y tiles de [CraftPix](https://craftpix.net) y otros packs, entre los de propio diseño siguiendo el mismo diseño y paleta de colores (lista en [CREDITOS.md](CREDITOS.md)). Las ilustraciones de los rasgos, el logo, la música, los sonidos, los luchadores, y todo el
 código son propios.
 
 ---
