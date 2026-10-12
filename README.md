@@ -42,8 +42,11 @@ maquetas.
     <td align="center"><img src="img/r_magia_fotones.gif" width="400"><br><b>Magia de fotones</b> — la Supernova: haces de luz que rebotan entre enemigos</td>
   </tr>
   <tr>
+    <td align="center"><img src="img/r_magia_vacio.gif" width="400"><br><b>Magia del vacío</b> — la Singularidad: todo cae hacia un punto… y colapsa</td>
     <td align="center"><img src="img/h_poderes.gif" width="400"><br><b>Habilidades</b> — colmillos de piedra, tornados, cometas y el rayo</td>
-    <td align="center"><img src="img/mazmorra.gif" width="400"><br><b>Mazmorras</b> — Fauces del Bosque, en solitario o en grupo, contra reloj</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="img/mazmorra.gif" width="400"><br><b>Mazmorras</b> — Fauces del Bosque, en solitario o en grupo, contra reloj</td>
   </tr>
 </table>
 
@@ -56,6 +59,7 @@ maquetas.
   <img src="img/rasgo_sangre_ardiente.jpg" width="150">
   <img src="img/rasgo_paso_sombra.jpg" width="150">
   <img src="img/rasgo_magia_fotones.jpg" width="150">
+  <img src="img/rasgo_magia_vacio.jpg" width="150">
 </p>
 
 Al despertar, un orbe te ofrece tres rasgos al azar y eliges uno **para siempre**. Todos empiezan en rango **F** y pueden
@@ -69,8 +73,9 @@ llegar a **S**; cada rango desbloquea una forma nueva de luchar (subir no es sue
 | **Sangre ardiente** | Más daño y velocidad a cambio de tu vida, en llamas cada vez más intensas; en S, la vida que te falta estalla en una explosión. |
 | **Paso de sombra** | Teletransporte de sombra en sombra, puñaladas críticas, marcas, señuelos y la Danza de sombras. |
 | **Magia de fotones** | Rayos de luz instantáneos que atraviesan filas de enemigos y rebotan de uno a otro, destellos que ciegan y, en S, la Supernova. Efectos hechos con partículas. |
+| **Magia del vacío** | La oscuridad como gravedad: atrae y atrapa, se traga los ataques y los devuelve multiplicados, captura criaturas para invocarlas y, en S, la Singularidad: una implosión. |
 
-Hay más de 12 rasgos diseñados (6 jugables ya) y la meta son unos 50. Además del rasgo, el resto de habilidades se consiguen
+Hay más de 12 rasgos diseñados (7 jugables ya) y la meta son unos 50. Además del rasgo, el resto de habilidades se consiguen
 explorando: botín, misiones, logros.
 
 <p align="center"><img src="img/orbe_cartas.png" width="760"><br><i>El orbe del despertar, en el juego</i></p>
