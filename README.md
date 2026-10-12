@@ -22,8 +22,6 @@
 ratos libres. Fuerzas oscuras y celestiales no pueden enfrentarse sin destruirse: el mundo humano como herramienta y
 campo de batalla... Despierta tu energía espiritual, desentraña los secretos de Verídia y restablece el equilibrio.
 
-Tú decides de qué lado cae la balanza en **Verídia**.
-
 Todo lo que ves aquí está **grabado del juego real** (el cliente se graba a sí mismo con un modo director propio): nada de
 maquetas.
 
